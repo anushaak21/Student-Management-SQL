@@ -1,7 +1,7 @@
 # Student Management System (SQL Project)
 
 ## 📌 Description
-A relational database system designed to manage students, courses, enrollments, and marks.
+A relational database system designed to manage students, courses, enrollments, and marks.  
 Built purely with SQL using concepts like primary/foreign keys, joins, constraints, and aggregations.
 
 ## 🚀 Features
